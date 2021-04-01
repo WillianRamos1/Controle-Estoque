@@ -667,7 +667,7 @@ namespace CapaApresentacao
             this.btnCategorias.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(110)))), ((int)(((byte)(242)))));
             this.btnCategorias.ActiveForecolor = System.Drawing.Color.White;
             this.btnCategorias.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(110)))), ((int)(((byte)(242)))));
-            this.btnCategorias.BackColor = System.Drawing.SystemColors.Control;
+            this.btnCategorias.BackColor = System.Drawing.Color.Transparent;
             this.btnCategorias.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCategorias.BackgroundImage")));
             this.btnCategorias.ButtonText = "CATEGORIAS";
             this.btnCategorias.Cursor = System.Windows.Forms.Cursors.Hand;
